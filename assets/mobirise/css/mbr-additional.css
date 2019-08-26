@@ -1563,3 +1563,30 @@ body {
 .cid-rAiu5Ub54l H5 {
   color: #ff3366;
 }
+.cid-rAiEmi83GX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-rAiEmi83GX [class^="socicon-"]:before,
+.cid-rAiEmi83GX [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-rAiEmi83GX .btn-social {
+  border-color: #149dcc;
+}
+.cid-rAiEmi83GX .btn-social:hover {
+  background: #149dcc;
+}
+.cid-rAiEmi83GX .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-rAiEmi83GX .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-rAiEmi83GX .btn-social,
+.cid-rAiEmi83GX .mbr-section-title {
+  color: #ffffff;
+}
