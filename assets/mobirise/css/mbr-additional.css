@@ -1415,8 +1415,6 @@ body {
   box-shadow: none !important;
 }
 .cid-rAioT8yW98 {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-color: #232323;
 }
 .cid-rAioT8yW98 P {
@@ -1427,7 +1425,7 @@ body {
 }
 .cid-rAipSsuMRX {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-color: #232323;
 }
 .cid-rAipSsuMRX h3 {
@@ -1454,6 +1452,17 @@ body {
   color: #ff3366;
 }
 .cid-rAipSsuMRX H4 {
+  color: #ff3366;
+}
+.cid-rAm2V269PG {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #232323;
+}
+.cid-rAm2V269PG .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-rAm2V269PG H2 {
   color: #ff3366;
 }
 .cid-rAiJgMp6kH {
