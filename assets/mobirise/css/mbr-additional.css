@@ -2291,6 +2291,9 @@ body {
   padding-bottom: 60px;
   background-color: #cc2952;
 }
+.cid-rAmu2LTvRn H2 {
+  color: #232323;
+}
 .cid-rAm2V269PG {
   padding-top: 120px;
   padding-bottom: 60px;
@@ -2407,6 +2410,33 @@ body {
     margin: auto;
   }
   .cid-rAm49ICSbJ .media-content {
+    padding-top: 1.5rem !important;
+  }
+}
+.cid-rI72Eaqdb6 {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background-color: #232323;
+}
+.cid-rI72Eaqdb6 .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+}
+.cid-rI72Eaqdb6 .mbr-author-name {
+  font-weight: bold;
+}
+.cid-rI72Eaqdb6 .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-rI72Eaqdb6 .mbr-figure,
+  .cid-rI72Eaqdb6 img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+  .cid-rI72Eaqdb6 .media-content {
     padding-top: 1.5rem !important;
   }
 }
